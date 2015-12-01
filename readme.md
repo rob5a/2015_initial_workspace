@@ -6,7 +6,9 @@ workspace ROS indigo initial des projets de robotiques
 - bootez sur la clef USB
 - montez la partition ROS
 - cd /opt/ros
-*attention! sauvegardez bien vos travaux avant*
+- 
+**attention! sauvegardez bien vos travaux avant**
+
 - rm -rf catkin_ws
 - git clone https://github.com/rob5a/2015_initial_workspace.git catkin_ws
 - cd $HOME/catkin_ws
